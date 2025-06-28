@@ -1,3 +1,4 @@
 # hello-everyone
-Hello evveryone to all the coders
-this is my 1st project on github   
+Hello everyone to all the coders.
+This is my 1st project on github on github course.
+
