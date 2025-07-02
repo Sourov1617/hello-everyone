@@ -1,0 +1,5 @@
+hello
+how are you
+I am fine
+// This file is a simple text file containing greetings and a status update.
+// It can be used to test file reading and writing functionalities in various programming languages.
